@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is a collection of worke related to The Odin Project
+This is a collection of work related to The Odin Project
